@@ -94,8 +94,32 @@ body.impress-on-slide4 {
 }
 
 body.impress-on-slide5 {
-    background: red;
+    background: lightseagreen;
 }
+
+body.impress-on-question {
+    background: lightgreen;
+}
+body.impress-on-notes {
+    background: rgb(2, 200, 125);
+}
+
+body.impress-on-format {
+    background: darkmagenta;
+}
+body.impress-on-characters {
+    background: lightsalmon;
+}
+body.impress-on-characters2 {
+    background: lightsalmon;
+}
+body.impress-on-book {
+    background: rgb(255,235,205);
+}
+body.impress-on-characters3 {
+    background: lightsalmon;
+}
+
 
 .logo {
     margin-left: 50px;
