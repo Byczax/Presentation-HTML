@@ -93,7 +93,10 @@ body.impress-on-slide4 {
     background: lightgray    ;
 }
 
-body.impress-on-slide5 {
+body.impress-on-film1 {
+    background: orange;
+}
+body.impress-on-film2 {
     background: lightseagreen;
 }
 
@@ -119,7 +122,39 @@ body.impress-on-book {
 body.impress-on-characters3 {
     background: lightsalmon;
 }
-
+body.impress-on-mark1 {
+    background: rgb(231, 124, 81);
+}
+body.impress-on-mark2 {
+    background: rgb(214, 91, 42);
+}
+body.impress-on-mark3 {
+    background: rgb(97, 8, 157);
+}
+body.impress-on-mark4 {
+    background: rgb(133, 38, 0);
+}
+body.impress-on-vscode {
+    background: lightskyblue;
+}
+body.impress-on-pandoc {
+    background: darkblue;
+}
+body.impress-on-mindblow {
+    background: black;
+}
+body.impress-on-pandoc2 {
+    background: rgb(33, 33, 223);
+}
+body.impress-on-mupdf {
+    background: lightcyan;
+}
+body.impress-on-formats {
+    background: limegreen;
+}
+body.impress-on-meta {
+    background: darkslateblue;
+}
 
 .logo {
     margin-left: 50px;
@@ -133,9 +168,9 @@ body.impress-on-characters3 {
 
 #animated-text {
     position: absolute;
-    top: -350px;
-    left: 910px;
-    width: 300px;
+    top: 0px;
+    left: 900px;
+    width: 500px;
     margin-top: calc(50vh - 10vw);
     text-align: center;
     background: linear-gradient(
