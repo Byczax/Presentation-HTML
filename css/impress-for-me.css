@@ -155,6 +155,55 @@ body.impress-on-formats {
 body.impress-on-meta {
     background: darkslateblue;
 }
+body.impress-on-metadata {
+    background: lime;
+}
+
+body.impress-on-convert {
+    background: #00FFFF;
+}
+body.impress-on-magicline {
+    background: #9966CC;
+}
+body.impress-on-explanation {
+    background: #C71585;
+}
+body.impress-on-beamer {
+    background: #4169E1;
+}
+body.impress-on-beamer2 {
+    background: #F0FFFF;
+}
+body.impress-on-latex {
+    background: #FF4500;
+}
+body.impress-on-documents {
+    background: #008080;
+}
+body.impress-on-latexpersonal {
+    background: #FF7F50;
+}
+body.impress-on-markteks {
+    background: blue;
+}
+body.impress-on-explenationtex {
+    background: #48D1CC;
+}
+body.impress-on-templatetex {
+    background: #ADFF2F;
+}
+body.impress-on-comments {
+    background: #9932CC;
+}
+body.impress-on-conclusion {
+    background: #008080;
+}
+body.impress-on-conclusionend {
+    background: darkgray;
+}
+body.impress-on-fadeaway1 {
+    background: black;
+}
 
 .logo {
     margin-left: 50px;
@@ -230,7 +279,7 @@ body.impress-on-meta {
     position: absolute;
     top: -350px;
     left: 840px;
-    width: 300px;
+    width: 500px;
     margin-top: calc(50vh - 10vw);
     text-align: center;
     background: linear-gradient(
